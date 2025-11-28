@@ -53,7 +53,7 @@ class IMUProcessor:
         self.yaw = 0.0
         self.dt = 0.01  # 100Hz sample rate
         
-        # Calibration offsets - NUEVA CARACTERÍSTICA
+        # Calibration offsets 
         self.pitch_offset = 0.0
         self.roll_offset = 0.0
         self.yaw_offset = 0.0
