@@ -38,9 +38,7 @@ Visualización 3D en tiempo real para MPU6050 usando ESP32 y un entorno avanzado
 - PyQtGraph  
 - PyOpenGL  
 - NumPy  
-- PySerial  
+- PySerial
 - ESP32-WROOM-32  
 - MPU6050 (I2C)
-
-cd tu_repositorio
 
