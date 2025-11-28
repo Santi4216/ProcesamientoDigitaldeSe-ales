@@ -1,4 +1,4 @@
-# ProcesamientoDigitaldeSe-ales
+# ProcesamientoDigitaldeSeñales
 Visualizador 3D en tiempo real para MPU6050 con ESP32. Incluye filtrado Kalman, fusión sensorial, auto-calibración y un modelo 3D interactivo. Muestra pitch, roll y yaw con gráficas dinámicas y una interfaz PyQt5 optimizada para análisis de movimiento.
 # 🛰️ IMU MPU6050 3D Simulator – ESP32 + Python  
 Visualización 3D en tiempo real para MPU6050 usando ESP32 y un entorno avanzado en Python (PyQt5 + PyOpenGL + PyQtGraph). Incluye filtrado Kalman, fusión sensorial, auto-calibración y gráficas dinámicas.
